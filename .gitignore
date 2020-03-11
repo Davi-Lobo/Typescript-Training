@@ -3,3 +3,4 @@ node_modules/
 
 # Yarn Things
 yarn.lock
+yarn-error.log
