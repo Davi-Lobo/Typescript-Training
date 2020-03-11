@@ -1,0 +1,12 @@
+{
+  "name": "nodeTS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Davi-Lobo/nodeTS.git",
+  "author": "Davi Lobo <davi.lobo.gs@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sucrase": "^3.12.1",
+    "typescript": "^3.8.3"
+  }
+}
