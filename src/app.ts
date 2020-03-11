@@ -21,7 +21,7 @@ class App {
     }
 
     private database(): void {
-        mongoose.connect('mongodb+srv://root:root@cluster0-ufr7o.mongodb.net/test?retryWrites=true&w=majority', {
+        mongoose.connect('mongodb+srv://root:root@cluster0-ufr7o.mongodb.net/base?retryWrites=true&w=majority', {
             useNewUrlParser: true,
             useUnifiedTopology: true,
         });
